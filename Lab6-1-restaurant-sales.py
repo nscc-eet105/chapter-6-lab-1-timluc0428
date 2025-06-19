@@ -1,9 +1,10 @@
 #Tim Lucas
-#Lab 6-1
+#Lab 6-1 
 #2025 - 06 - 18
 
 #create a tuple to hold the spelled-out days of the week.
 days = ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday")
+#create an empty list for daily sales amount
 daily_sales = []
 
 #use week tuple in a for loop to prompt for each day's sales. 
